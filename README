@@ -1,0 +1,3 @@
+How to use this script
+Command: 
+python android-signing.py unsigned_package.apk keystore_to_use("france" or "bilbao")
